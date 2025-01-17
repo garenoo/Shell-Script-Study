@@ -2,11 +2,11 @@
 
 Bash Shell Script https://mug896.github.io/bash-shell/index.html
 
-vim Core Syntax
-comment: norm i#
-uncomment: norm 1x
+vim Core Syntax\n
+comment: norm i#\n
+uncomment: norm 1x\n
 
-Shell Script Core Syntax
-echo$!: last background PID
-echo$?: last command status
-echo$$: current shell PID
+Shell Script Core Syntax\n
+echo$!: last background PID\n
+echo$?: last command status\n
+echo$$: current shell PID\n
